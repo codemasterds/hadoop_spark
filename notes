@@ -1,0 +1,25 @@
+The 5v of Big data
+1.volume-size of data
+2.velocity- the speed at which data is generated
+3.variety-the different type of data
+4.veracity-the turstworthiness of the data n terms of accuaracy
+5.value- just having big data is of no use unless we can turn it into value
+
+>Hadoop gives the solution for big data
+hadoop cluster
+1.HDFS(storage unit)(Hadoop Distributed File System ( HDFS ) )
+2.Mapreduce(Compute engine)
+3.Yarn(resource manager) (YARN stands for Yet Another Resource Negotiator)
+>hadoop a java based
+
+>spark cluster
+1.hdfs|local|amazon s3
+2.spark
+3.yarn|mesos|kubernetes
+
+
+>if we use hdfs,yarn in spark cluster it is called distrubted environment,else we call it standlone environment
+
+PROCESS
+source>ingest>process>store>serve data
+
